@@ -40,3 +40,15 @@ redeploy. The username and password are variables on the same app.
 
 The app is limited to 0.5 CPU and 512 MiB of memory. Raise `limits` in
 `template.yaml` if your traffic needs more.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
