@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/cubeshipd/cubeship-ackee-template/compare/v1.0.3...v1.0.4) (2026-09-21)
+
+
+### Bug Fixes
+
+* update electerious/ackee docker tag to v3.6.1 ([#8](https://github.com/cubeshipd/cubeship-ackee-template/issues/8)) ([a8550ea](https://github.com/cubeshipd/cubeship-ackee-template/commit/a8550ea1f56a623cf82364eccefde7e4a5e5e879))
+
 ## [1.0.3](https://github.com/cubeshipd/cubeship-ackee-template/compare/v1.0.2...v1.0.3) (2026-09-18)
 
 
